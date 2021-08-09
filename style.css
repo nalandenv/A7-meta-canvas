@@ -1,6 +1,13 @@
 @import url(https://fonts.googleapis.com/css?family=Comic+Neue:300,300italic,regular,italic,700,700italic);
-canvas {
+#first {
   width: 400px;
   height: 200px;
   border: 2px solid black;
+}
+
+#second {
+  display: block;
+  margin-top: 20px;
+  width: 300px;
+  height: 200px;
 }
